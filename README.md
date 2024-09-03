@@ -15,7 +15,7 @@ Moving forward, In 2024 I expanded by horizons over Cloud computing and Frontend
 Right now as of this writing (September 1st, 2024) Iam refining my skills as well as upgrading my old projects. Right now Iam working on Version 2 of MGCloud (my school time cloud storage project) using React JS for Frontend, Backed by Django and using Cloudflare R2 as root resource, Iam also thinking on fully commerializing this one, since its done since I've never done any marketing before for any of my projects.
 
 ## ✨What am I Gonna Do?
-After completing MGCloud V2, I'm planning on learning Next JS since it has proven its advantages of SSR and hybrid static sites for quite some while now, Further Iam looking forward to develop a blog application in Next JS to anchor my learnings. 
+After completing MGCloud V2, I'm planning on learning Next JS since it has proven its advantages of SSR and hybrid static sites for quite some while now, with that Iam going to develop a blog application in Next JS to anchor my learnings. Additonally I'm thinking on getting my hands on Machine Learning projects coupled with my web knowledge to build some ML integrated projects.
 
 
 
