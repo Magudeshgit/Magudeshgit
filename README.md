@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 ☁ I'm currently working on a secure cloud storage solution <br>along as well us freelancing small projects on the side.<br><br>📝 Planning on creating a blog application within the end of this year.<br><br>🌎 Seeking new opportunities and consuming more tech daily to develop solution for tech problems on a goal to make earth a better place :)<br><br>
 
 
