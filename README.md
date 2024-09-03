@@ -3,9 +3,9 @@
 
 ## 🗝What have I done so Far?
 Since the Covid Pandemic 2020 starting with HTML/CSS and Javascript worked my way up to Backend with Django framework because I had a pretty sound base of python from my projects and school. With that I developed few projects refining my skills in django, Some of the projects that I developed were:<br>
-1.) **PassAdmin** - A secure password storage application with robust encryption mechanisms (2021).<br>
-2.) **MGCloud V1**- We had the problem of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br>
-3.) **BetaChat V1**- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).<br>
+1.) **PassAdmin** - A secure password storage application with robust encryption mechanisms (2021).<br><br>
+2.) **MGCloud V1**- We had the problem of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br><br>
+3.) **BetaChat V1**- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).<br><br>
 
 Joining college I had "Terabytes" of opportunities to test my skills pratically as well as upgrade them, I had an opportunity to build and host a few event registration websites which handled an average traffic of 700 users over 1 week. I successfully able to manage the sites without any downtime for two such events.
 
