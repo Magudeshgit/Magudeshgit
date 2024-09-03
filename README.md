@@ -2,7 +2,7 @@
 ☁ I'm currently working on learning new tech in which Iam building a secure cloud storage solution, as well as freelancing for small projects on the side.<br><br>📝 Planning on creating a blog application within the end of this year.<br><br>🌎 Seeking new opportunities and consuming more tech daily to develop solution for tech problems on a goal to make earth a better place :)<br><br>
 
 ## 🗝What have I done so Far?
-Since the Covid Pandemic 2020 starting with HTML/CSS and Javascript worked my way up to Backend with Django framework because I had a pretty sound base of python from my projects and school. With that I developed few projects refining my skills in django, Some of the projects that I developed were:<br>
+Since the Covid Pandemic 2020 starting with HTML/CSS and Javascript worked my way up to Backend with Django framework because I had a pretty sound base of python from my projects and school. With that I developed few projects refining my skills in django, Some of the projects that I developed were:<br><br>
 1.) **PassAdmin** - A secure password storage application with robust encryption mechanisms (2021).<br><br>
 2.) **MGCloud V1**- We had the problem of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br><br>
 3.) **BetaChat V1**- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).<br><br>
