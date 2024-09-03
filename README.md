@@ -1,6 +1,24 @@
 # 👋 About Me:
 ☁ I'm currently working on learning new tech in which Iam building a secure cloud storage solution, as well as freelancing for small projects on the side.<br><br>📝 Planning on creating a blog application within the end of this year.<br><br>🌎 Seeking new opportunities and consuming more tech daily to develop solution for tech problems on a goal to make earth a better place :)<br><br>
 
+## What have I done so Far?
+Since the Covid Pandemic 2020 starting with HTML/CSS and Javascript worked my way up to Backend with Django framework because I had a pretty sound base of python from my projects and school. With that I developed few projects refining my skills in django, Some of the projects that I developed were:
+1.) PassAdmin - A secure password storage application with robust encryption mechanisms (2021).
+2.) MGCloud V1- We had the problem of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).
+3.) BetaChat V1- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).
+
+Joining college I had "Terabytes" of opportunities to test my skills pratically as well as upgrade them, I had an opportunity to build and host a few event registration websites which handled an average traffic of 700 users over 1 week. I successfully able to manage the sites without any downtime for two such events.
+
+Moving forward, In 2024 I expanded by horizons over Cloud computing and Frontend Frameworks, AWS and React JS to be specific. I fiddled a lot with AWS, deployed a few sites and gained some experience based knowledge which may have considerable impact on my wallet but it was worth it, Coming to React JS, since I was working with some intermediate Javascript for the past 3 years, it was fairly easy to catch on. To strengthen my knowledge I developed a web application using React and Express JS which basically was a interface application for AWs's EC2 Dashboard, It solved the problem going through the overly complicated UI of AWS just to reboot a Instance.
+
+## What am I Doing Now?
+Right now as of this writing (September 1st, 2024) Iam refining my skills as well as upgrading my old projects. Right now Iam working on Version 2 of MGCloud (my school time cloud storage project) using React JS for Frontend, Backed by Django and using Cloudflare R2 as root resource, Iam also thinking on full fledgedly this once its done since I've never done any marketing before for any of my projects.
+
+## What am I Gonna Do?
+After completing MGCloud V2, I'm planning on learning Next JS since it has proven its advantages of SSR and hybrid static sites for quite some while now, Further Iam looking forward to develop a blog application in Next JS to anchor my learnings. 
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magudesh-k-9325852b6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/magudesh.dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@magudesh2006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Magudesh_06) 
