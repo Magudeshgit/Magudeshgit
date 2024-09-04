@@ -1,22 +1,27 @@
 # 👋 About Me:
-☁ I'm currently learning new tech in which Iam building a secure cloud storage solution, as well as freelancing for small projects on the side.<br><br>📝 Planning on creating a blog application within the end of this year.<br><br>🌎 Seeking new opportunities and consuming more tech daily to develop solution for tech problems on a goal to make earth a better place :)<br><br>
+☁ I'm currently learning new tech in which I am building a secure cloud storage solution while freelancing for small-scale projects alongside.
+<br>
+📝 Drafting on creating a blog application by the year's end.
+<br>
+🌎 On the lookout for new opportunities and engaging in new technologies everyday to develop solutions to the goal to make earth a better place to live :)<br><br>
 
 ## 🗝What have I done so Far?
-Since 2020, starting with HTML/CSS and Javascript worked my way up to Backend with Django framework because I had a pretty sound base of python from my projects and school. With that I developed few projects refining my skills in django, Some of the projects that I developed were:<br><br>
+From 2020, starting with HTML/CSS and Javascript I worked my way up to Backend with Django framework since I had a pretty sound base of python from my projects and school. Hence I developed a couple projects refining my skills in django, some of the projects that I developed are:
+<br><br>
 1.) **PassAdmin** - A secure password storage application with robust encryption mechanisms (2021).<br><br>
-2.) **MGCloud V1**- We had the problem of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br><br>
+2.) **MGCloud V1**- We had a limitation of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br><br>
 3.) **BetaChat V1**- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).<br><br>
 
-Joining college I had "Terabytes" of opportunities to test my skills pratically as well as upgrade them, I had an opportunity to build and host a few event registration websites which handled an average traffic of 700 users over a week. I was successfully able to manage the sites without any downtime for two such events.
+Starting college I had "Terabytes" of opportunities to test my skills practically and also to upgrade them, I built and hosted event registration websites which handled an average traffic of 700 users over a week. I successfully managed the sites without any downtime.<br><br>
 
-Moving forward, In 2024 I expanded by horizons over Cloud computing and Frontend Frameworks, AWS and React JS to be specific. I fiddled a lot with AWS, deployed a few sites and gained some experience based knowledge which may have considerable impact on my wallet but it was worth it. Coming to React JS, since I was working with some intermediate Vanilla Javascript for the past 3 years, it was fairly easy to catch on. To strengthen my knowledge I developed a web application using React and Express JS which basically was a interface application for AWS's EC2 Dashboard, It solved the problem going through the overly complicated UI of AWS just to reboot a Instance.
+Moving forward to this year, I expanded by horizons over Cloud computing and Frontend Frameworks, AWS and React JS specifically. I experimented a lot with AWS, deployed a few sites and gained some experience based knowledge which may have considerable impact on my wallet but it was worth the learn. Skipping to React JS, since I was working with some intermediate Vanilla Javascript for the past 3 years, it was fairly easy to catch on. To strengthen my knowledge I developed a web application using React and Express JS, which basically was an interface application for AWS's EC2 Dashboard. It solved the problem going through the overly complicated UI of AWS just to reboot an instance.
 
 ## 🎯What am I Doing Now?
-Right now as of this writing (September 4th, 2024) Iam refining my skills as well as upgrading my old projects. Right now Iam working on Version 2 of MGCloud (my school time cloud storage project) using React JS for Frontend, Backed by Django and Cloudflare R2 as root resource, Iam also thinking on fully commercializing this one, since I've never really done any marketing before for any of my projects.
+Contemporary to 4th september 2024, I am refining my skills and upgrading my previous projects. Right now I am working on Version 2 of MGCloud (my school, cloud storage project) using React JS for Frontend, Backed by Django and Cloudflare R2 as root resources, also planning to fully commercialize this one, since I've never really done any marketing before on any of my projects.
 
 ## ✨What am I Gonna Do?
-After completing MGCloud V2, I'm planning on learning Next JS since it has proven its advantages of SSR and hybrid static sites for quite some while now, with that Iam going to develop a blog application in Next JS to anchor my learnings. Additonally I'm thinking on getting my hands on Machine Learning projects coupled with my web knowledge to build some ML integrated goodness.
-
+After the upgrading of my MGCloud V2, I'm looking forward to learning Next JS since it has proven its advantages of SSR and hybrid static sites for quite sometime now, in addition to that I am to develop a blog application in Next JS to anchor my learnings. Additonally I'm hoping on getting my hands on Machine Learning projects coupled with my web knowledge to build some ML integrated goodness.
+<br><br>
 Feel free to check out my code from the available repositories. Happy Tech-ing!
 
 
