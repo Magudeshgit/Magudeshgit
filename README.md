@@ -4,7 +4,7 @@
 📝 Drafting on creating a blog application by the year's end.
 <br>
 🌎 On the lookout for new opportunities and engaging in new technologies everyday to develop solutions to the goal to make earth a better place to live :)<br><br>
-<br>
+
 📍Current Project: A secure cloud storage solution
 
 ## 🗝What have I done so Far?
