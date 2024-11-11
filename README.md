@@ -1,9 +1,11 @@
 # 👋 About Me:
-☁ I'm currently learning new tech in which I am building a secure cloud storage solution while freelancing for small-scale projects alongside.
+☁ I'm currently building personal-projects addressing realworld problems or improvements to existing solutions.
 <br>
 📝 Drafting on creating a blog application by the year's end.
 <br>
 🌎 On the lookout for new opportunities and engaging in new technologies everyday to develop solutions to the goal to make earth a better place to live :)<br><br>
+<br>
+📍Current Project: A secure cloud storage solution
 
 ## 🗝What have I done so Far?
 From 2020, starting with HTML/CSS and Javascript I worked my way up to Backend with Django framework since I had a pretty sound base of python from my projects and school. Hence I developed a couple projects refining my skills in django, some of the projects that I developed are:
