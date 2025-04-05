@@ -3,18 +3,25 @@
 <br>
 📝 Drafting on creating a blog application by the year's end.
 <br>
-🌎 On the lookout for new opportunities and engaging in new technologies everyday to develop solutions to the goal to make earth a better place to live :)<br><br>
+🌎 On the lookout for new opportunities and engaging in new technologies everyday to develop intuitive solutions:)<br><br>
 
 📍Current Project: A secure cloud storage solution
 
 ## 🗝What have I done so Far?
 From 2020, starting with HTML/CSS and Javascript I worked my way up to Backend with Django framework since I had a pretty sound base of python from my projects and school. Hence I developed a couple projects refining my skills in django, some of the projects that I developed are:
 <br><br>
+
+**Personal**
 1.) **PassAdmin** - A secure password storage application with robust encryption mechanisms (2021).<br><br>
 2.) **MGCloud V1**- We had a limitation of "Strictly No External Drives in school PCs" in our school for which I developed a simple cloud storage web application (2022).<br><br>
 3.) **BetaChat V1**- A secure group chat application which employs robust client side AES 256 encryption coupled with AWS Key Management Service (2023).<br><br>
 
-Starting college I had "Terabytes" of opportunities to test my skills practically and also to upgrade them, I built and hosted event registration websites which handled an average traffic of 700 users over a week. I successfully managed the sites without any downtime.<br><br>
+**Freelance**
+I've handled a handful of qualitative clients and provided solution that improved their business requirements.
+1.) **Inventrove** - An Inventory Management Web Application delivered to a rental agency, who found it harder to log incoming/outgoing items and needed a streamlined solution to manage billing along with it. Additionally added in features to handle employee attendance and its dependent salary management, client catalog, etc. 
+
+Starting college I had "Terabytes" of opportunities to test my skills practically and also to upgrade them, I built and hosted event registration websites which handled an average traffic of 700 users over a 
+week. I successfully managed the sites without any downtime.<br><br>
 
 Moving forward to this year, I expanded by horizons over Cloud computing and Frontend Frameworks, AWS and React JS specifically. I experimented a lot with AWS, deployed a few sites and gained some experience based knowledge which may have considerable impact on my wallet but it was worth the learn. Skipping to React JS, since I was working with some intermediate Vanilla Javascript for the past 3 years, it was fairly easy to catch on. To strengthen my knowledge I developed a web application using React and Express JS, which basically was an interface application for AWS's EC2 Dashboard. It solved the problem going through the overly complicated UI of AWS just to reboot an instance.
 
