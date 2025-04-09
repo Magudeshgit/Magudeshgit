@@ -18,7 +18,7 @@ From 2020, starting with HTML/CSS and Javascript I worked my way up to Backend w
 
 **Freelance**
 I've handled a handful of qualitative clients and provided solution that improved their business requirements.
-1.) **Inventrove** - An Inventory Management Web Application delivered to a cook-ware utensil rental agency, who found it harder to log incoming/outgoing items, track damaged items and needed a streamlined solution to manage billing along with it. Additionally added in features to handle employee attendance and its dependent salary management, client catalog, etc. The application helped the agency in improving the overall workflow of the agency in managing the items, and provided insightful analytics about sales and revenue.
+\nMy Recent project was an Inventory Management Web Application delivered to a cook-ware utensil rental agency, who found it harder to log incoming/outgoing items, track damaged items and needed a streamlined solution to manage billing along with it. Additionally added in features to handle employee attendance and its dependent salary management, client catalog, etc. The application helped the agency in improving the overall workflow in managing the items, and provided insightful analytics about sales and revenue.
 
 
 Starting college I had "Terabytes" of opportunities to test my skills practically and also to upgrade them, I built and hosted event registration websites which handled an average traffic of 700 users over a 
